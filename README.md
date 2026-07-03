@@ -75,6 +75,11 @@ pytest tests/ -v
 - **SQLite** — 本地存储
 - **openpyxl** — Excel 导出
 
+## 运行截图
+
+![基金业绩分析工具运行截图](assets/screenshot.png)
+
+
 ## 数据说明
 
 - 数据来源于 [akshare](https://github.com/akfamily/akshare)，通过天天基金等公开接口获取
